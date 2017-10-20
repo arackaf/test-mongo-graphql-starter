@@ -4,11 +4,10 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "@std/esm": "^0.12.0",
+    "@std/esm": "^0.11.0",
     "graphql": "^0.11.7",
     "graphql-tools": "^2.5.1",
-    "mongo-graphql-starter": "0.1.0",
-    "path": "^0.12.7"
+    "mongo-graphql-starter": "0.1.0-beta2"
   },
   "devDependencies": {},
   "scripts": {

@@ -5,9 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "@std/esm": "0.12.0",
-    "graphql": "^0.11.7",
-    "graphql-tools": "^2.5.1",
-    "mongo-graphql-starter": "0.1.1"
+    "mongo-graphql-starter": "^0.6.18"
   },
   "devDependencies": {},
   "scripts": {

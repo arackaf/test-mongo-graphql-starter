@@ -1,5 +1,3 @@
-import "./createGraphQLSchema";
-
 import { MongoClient } from "mongodb";
 import expressGraphql from "express-graphql";
 import resolvers from "./graphQL/resolver";

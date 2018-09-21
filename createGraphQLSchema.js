@@ -3,4 +3,4 @@ import * as projectSetup from "./projectSetup";
 
 import path from "path";
 
-createGraphqlSchema(projectSetup, path.resolve("./testProject1"));
+createGraphqlSchema(projectSetup, path.resolve("./"));

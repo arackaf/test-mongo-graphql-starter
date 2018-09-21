@@ -1,2 +1,5 @@
 require = require("esm")(module, { mode: "auto", cjs: true });
-require("./runIt.js");
+
+// require("./createGraphQLSchema");
+
+module.exports = require("./runIt.js");
